@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+lord-icon{
+  height: 23px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
